@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Mursleen Clinic - Family Healthcare in Lahore",
+  "description": "Modern family medical practice located in Qadri Colony, Walton Road, Lahore. General healthcare consultations, clinic timings, and appointment requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
